@@ -4,7 +4,9 @@ This is a web scraper for downloading images from a 4chan thread. Uses python3 a
 Installation and setup(ubuntu/debian):
 
 apt-get install python3-bs4
+
 apt-get install python3-pip
+
 pip install beautifulsoup4
 
 
